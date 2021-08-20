@@ -8,7 +8,7 @@
 <p float="left">
 <a href="https://archlinux.org/"><img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/arch.png" height="64"/></a>
 <a href="https://www.mozilla.org"><img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/firefox.png" height="64"/></a>
-<img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/code.jpg" height="64"/>
-<img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/hyper.png" height="64"/>
-<img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/simplenote.png" height="64"/>
+<a href="https://code.visualstudio.com"><img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/code.jpg" height="64"/></a>
+<a href="https://hyper.is"><img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/hyper.png" height="64"/></a>
+<a href="https://simplenote.com"><img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/simplenote.png" height="64"/></a>
 </p>
