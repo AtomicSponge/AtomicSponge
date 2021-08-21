@@ -12,3 +12,5 @@
 <a href="https://hyper.is"><img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/hyper.png" height="64"/></a>
 <a href="https://simplenote.com"><img src="https://github.com/wtfsystems/wtfsystems/blob/main/images/simplenote.png" height="64"/></a>
 </p>
+
+Where I started: <a href="https://www.delorie.com/djgpp/">djgpp</a>
