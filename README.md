@@ -15,7 +15,7 @@
 </p>
 
 ### Where I started:
-<p float="left" style="vertical-align: middle;">
+<p float="left">
   <a href="https://www.ibm.com/ibm/history/exhibits/vintage/vintage_4506VV4023.html"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/1024px-IBMPS1.jpg" height="64"/></a>
   <a href="https://www.microsoft.com/en-us/p/qbasic/9ntmcqwn2sqm"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/msdos.png" height="64"/></a>
   <a href="https://www.delorie.com/djgpp/"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/djgpp.gif" height="48"/></a>
