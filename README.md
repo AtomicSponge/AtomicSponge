@@ -23,7 +23,7 @@
 
 ### Thought this was a good description of myself so I'll put this here:
 
-I'm mainly a C++ developer, 24 years (as of 2021), although I started off in plain C.  Before this I learned QBasic.  Along with this I've been using Linux since I downloaded Red Hat on a dial up connection, so almost for just as long.
+I'm mainly a C++ developer, 24 years (as of 2021), although I started off in plain C.  Before that I learned QBasic.  Along with this I've been using Linux since I downloaded Red Hat on a dial up connection, so almost for just as long.
 
 I used to hack video game consoles but not too much more on the hardware side of things now - besides acquiring more of it haha.  I found it necessary to purchase a 60 core 240 thread x64 processor out of a decommissioned Chinese supercomputer (an Intel Xeon Phi)!  But I'm a true AMD fan :)  Proud to say all my personal boxes have been AMD since the first one I built (an AMD K6-2).
 
