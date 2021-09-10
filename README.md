@@ -21,7 +21,7 @@
   <a href="https://www.delorie.com/djgpp/"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/djgpp.gif" height="64"/></a>
 </p>
 
-### About:
+### About me:
 
 I'm mainly a C++ developer, 24 years (as of 2021), although I started off in plain C.  Before that I learned QBasic.  Along with this I've been using Linux since I downloaded Red Hat on a dial up connection, so almost for just as long.
 
