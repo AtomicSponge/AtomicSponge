@@ -14,17 +14,9 @@
   <a href="https://simplenote.com"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/simplenote.png" height="64"/></a>
 </p>
 
-### Tools that make me feel old: :joy:
-<p float="left">
-  <a href="https://www.ibm.com/ibm/history/exhibits/vintage/vintage_4506VV4023.html"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/1024px-IBMPS1.jpg" height="64"/></a>
-  <a href="https://www.microsoft.com/en-us/p/qbasic/9ntmcqwn2sqm"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/msdos.png" height="64"/></a>
-  <a href="https://www.delorie.com/djgpp/"><img src="https://raw.githubusercontent.com/wtfsystems/wtfsystems/main/images/djgpp.gif" height="64"/></a>
-</p>
-
 ### About me:
-
-I'm mainly a C++ developer, 24 years (as of 2021), although I started off in plain C.  Before that I learned QBasic.  Along with this I've been using Linux since I downloaded Red Hat on a dial up connection, so almost for just as long.
-
-I used to hack video game consoles but not too much more on the hardware side of things now - besides acquiring more of it haha.  I've played around with some simple circut design, especially with MIDI hardware and old arcade boards.
-
-Outside of that I have a decent amount of experience with Python.  At this point I'm starting to study mathematics more along with programming as I'm very interested in physics.  I've done a lot of 2D graphics programming in the past and am currently working on getting my skills up to 3D.  Something I'm sad to say is long overdue as I developed a ray caster back in 2001 (the tech used in the old game Doom).  I've been focusing on my personal work more now.  Hope you enjoy and thanks for browsing!
+- Learned C on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
+- Used to modify old video game consoles and built a [SuperGun](https://en.wikipedia.org/wiki/SuperGun) :space_invader:
+- Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) :musical_keyboard:
+- [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
+- Drinks ~~toxic waste~~ coffee and seltzer
