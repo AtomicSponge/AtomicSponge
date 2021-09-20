@@ -15,6 +15,7 @@
 </p>
 
 ### About me:
+- Writing an engine, custom dev tools & random stuff
 - Learned C on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
 - Used to modify old video game consoles and built a [SuperGun](https://en.wikipedia.org/wiki/SuperGun) :space_invader:
 - Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) :musical_keyboard:
