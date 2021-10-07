@@ -21,3 +21,4 @@
 - Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) :musical_keyboard:
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - Drinks ~~toxic waste~~ coffee and seltzer
+- College drop-out, I learned from the Internet.
