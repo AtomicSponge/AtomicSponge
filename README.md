@@ -18,6 +18,6 @@
 - Writing an engine, custom dev tools & random stuff
 - Learned C on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
 - Used to modify old video game consoles and built a [SuperGun](https://en.wikipedia.org/wiki/SuperGun) :space_invader:
-- Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) :musical_keyboard:
+- Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) and thinks GameBoys are musical instruments.  :musical_keyboard:
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - Drinks ~~toxic waste~~ coffee and seltzer
