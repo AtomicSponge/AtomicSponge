@@ -21,3 +21,4 @@
 - Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) and thinks [GameBoys](https://en.wikipedia.org/wiki/Game_Boy) are musical instruments.  :musical_keyboard:
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - Drinks ~~toxic waste~~ coffee and seltzer
+- [Anime](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki)
