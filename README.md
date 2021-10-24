@@ -22,3 +22,5 @@
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - Drinks ~~toxic waste~~ coffee and seltzer
 - [Ani](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+
+<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
