@@ -17,7 +17,7 @@
 
 ### About me:
 - Writing an engine, custom dev tools & random stuff
-- Learned C on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
+- Learned QBasic & C on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
 - Likes to modify [old](https://en.wikipedia.org/wiki/TurboGrafx-16) [video](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) [game](https://en.wikipedia.org/wiki/Sega_Saturn) [consoles](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) and built a [SuperGun](https://en.wikipedia.org/wiki/SuperGun) :space_invader:
 - Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) and thinks [GameBoys](https://en.wikipedia.org/wiki/Game_Boy) are musical instruments.  :musical_keyboard:
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
