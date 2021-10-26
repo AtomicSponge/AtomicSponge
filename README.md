@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### 始めまして『エバンズ『です 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtfsystems&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About me:
 - Writing an engine, custom dev tools & random stuff
 - Learned QBasic & C on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
@@ -11,6 +9,8 @@
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - Drinks ~~toxic waste~~ coffee and seltzer
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtfsystems&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favorite Tools:
 <p float="left">
