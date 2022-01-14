@@ -12,6 +12,7 @@
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - Drinks ~~toxic waste~~ coffee and seltzer :coffee:
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- Self educated engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtfsystems&layout=compact&theme=outrun&exclude_repo=wtfsystems.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
