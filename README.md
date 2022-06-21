@@ -15,3 +15,5 @@
 - Self educated engineer.
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
+
+*Scope creap* - a sad term and an excuse to never learn anything.  Then again what do I know, no one even showed up to teach my project management class :joy:
