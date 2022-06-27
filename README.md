@@ -13,6 +13,7 @@
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 - Self educated engineer.
+- [Penn State](https://en.wikipedia.org/wiki/Jerry_Sandusky) drop-out and proud! :sunglasses:
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
 
