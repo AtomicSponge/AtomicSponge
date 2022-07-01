@@ -15,6 +15,7 @@
 - Self educated engineer.
 - [Penn State](https://en.wikipedia.org/wiki/Jerry_Sandusky) drop-out and proud! :sunglasses:
 
-<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
+### Fun stuff:
+https://atomicsponge.wtfsystems.net/
 
-*Scope creap* - a sad term and an excuse to never learn anything.  Then again what do I know, no one even showed up to teach my project management class :joy:
+<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
