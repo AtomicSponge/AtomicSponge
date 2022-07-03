@@ -20,5 +20,3 @@ https://github.com/wtfsystems
 https://atomicsponge.wtfsystems.net/
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
-
-Hey if my websites go down in the next few days it's because I ran my phone over with the lawn mower and I'm working on getting logged back into my accounts LOL ¯\_(ツ)_/¯
