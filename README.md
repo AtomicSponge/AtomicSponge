@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### 始めまして『エバンズ『です 👋
 
-### wtfsystems org:
-https://github.com/wtfsystems
+### wtfsystems:
+- [GitHub Org](https://github.com/wtfsystems)
+- [NPM](https://www.npmjs.com/org/wtfsystems)
 
-### NPM:
-- https://www.npmjs.com/org/wtfsystems
+### Personal NPM:
 - https://www.npmjs.com/~spongex
 
 ### About me:
