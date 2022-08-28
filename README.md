@@ -21,7 +21,7 @@ https://github.com/wtfsystems
 ### Fun stuff:
 https://atomicsponge.wtfsystems.net/
 
-### Buy me a Coffee:
+### Buy me a Coffee (donate):
 https://www.buymeacoffee.com/atomicsponge
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
