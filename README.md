@@ -25,11 +25,18 @@ https://atomicsponge.wtfsystems.net/
 
 ### Tech used:
 <p>
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png">&nbsp;&nbsp;
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png">&nbsp;&nbsp;
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png">&nbsp;&nbsp;
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png">&nbsp;&nbsp;
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/simplenote.png">&nbsp;&nbsp;
+<a href="https://archlinux.org/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png"></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png"></a>&nbsp;&nbsp;
+<a href="https://hyper.is/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png"></a>&nbsp;&nbsp;
+<a href="https://isocpp.org/std/the-standard">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png"></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png"></a>&nbsp;&nbsp;
+<a href="https://simplenote.com/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/simplenote.png"></a>&nbsp;&nbsp;
 </p>
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
