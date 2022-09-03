@@ -24,7 +24,7 @@ https://www.buymeacoffee.com/atomicsponge
 https://atomicsponge.wtfsystems.net/
 
 ### Tech used:
-<table style="border: none;"><tr>
+<table border="none"><tr>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png"></td>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png"></td>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png"></td>
