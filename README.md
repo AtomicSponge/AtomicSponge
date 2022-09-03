@@ -20,11 +20,7 @@
 ### Fun stuff:
 https://atomicsponge.wtfsystems.net/
 
-### Buy me a Coffee (donate):
-https://www.buymeacoffee.com/atomicsponge
-
-<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
-
+### Tech used:
 <table><tr>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png"></td>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png"></td>
@@ -33,3 +29,8 @@ https://www.buymeacoffee.com/atomicsponge
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png"></td>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/simplenote.png"></td>
 </tr></table>
+
+### Buy me a Coffee (donate):
+https://www.buymeacoffee.com/atomicsponge
+
+<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
