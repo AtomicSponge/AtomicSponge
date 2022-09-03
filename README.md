@@ -24,7 +24,7 @@ https://www.buymeacoffee.com/atomicsponge
 https://atomicsponge.wtfsystems.net/
 
 ### Tech used:
-<p style="display: grid; grid-auto-flow: row;">
+<p style="display: grid; grid-auto-flow: column;">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png">
