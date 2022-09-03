@@ -25,9 +25,9 @@ https://www.buymeacoffee.com/atomicsponge
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
 
-<img style="height: 64px;" src=https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png">
-<img style="height: 64px;" src=https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png">
-<img style="height: 64px;" src=https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png">
-<img style="height: 64px;" src=https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png">
-<img style="height: 64px;" src=https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png">
-<img style="height: 64px;" src=https://github.com/AtomicSponge/AtomicSponge/blob/main/images/simplenote.png">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/simplenote.png">
