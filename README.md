@@ -21,7 +21,7 @@
 https://atomicsponge.wtfsystems.net/
 
 ### Tech used:
-<table style="border: 0px;"><tr>
+<table style="border: none;"><tr>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png"></td>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png"></td>
 <td><img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png"></td>
