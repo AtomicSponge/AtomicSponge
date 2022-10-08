@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### 始めまして『エバンズ『です 👋
 
+### My site:
+https://atomicsponge.wtfsystems.net/
+
 ### wtfsystems and engine development:
 - [GitHub Org](https://github.com/wtfsystems)
 - [NPM](https://www.npmjs.com/org/wtfsystems)
@@ -18,9 +21,6 @@ https://www.buymeacoffee.com/atomicsponge
 - [Cheats](https://github.com/EUA/wxHexEditor) at video games :expressionless:
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki) :heart:
 - [Penn State](https://en.wikipedia.org/wiki/Jerry_Sandusky) [drop-out](https://duckduckgo.com/?q=penn+state+news&t=newext&atb=v253-1&iar=news&df=m&ia=news) and proud! :sunglasses:
-
-### My site:
-https://atomicsponge.wtfsystems.net/
 
 ### Tech used:
 <p>
