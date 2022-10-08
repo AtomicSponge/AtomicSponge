@@ -19,7 +19,7 @@ https://www.buymeacoffee.com/atomicsponge
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki) :heart:
 - [Penn State](https://en.wikipedia.org/wiki/Jerry_Sandusky) [drop-out](https://duckduckgo.com/?q=penn+state+news&t=newext&atb=v253-1&iar=news&df=m&ia=news) and proud! :sunglasses:
 
-### Fun stuff:
+### My site:
 https://atomicsponge.wtfsystems.net/
 
 ### Tech used:
