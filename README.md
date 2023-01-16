@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### 始めまして『エバンズ『です 👋
 
-### My site:
-https://atomicsponge.wtfsystems.net/
+Developing an open source game engine, check it out!
 
 ### wtfsystems and engine development:
 - [GitHub Org](https://github.com/wtfsystems)
