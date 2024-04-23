@@ -27,6 +27,10 @@ Developing an [open source game engine](https://github.com/wtfsystems/wtengine),
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png"></a>&nbsp;&nbsp;
+<a href="https://vitejs.dev/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/vite.svg"></a>&nbsp;&nbsp;
+<a href="https://electron-vite.github.io/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/electron-vite.svg"></a>&nbsp;&nbsp;
 <a href="https://simplenote.com/">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/simplenote.png"></a>&nbsp;&nbsp;
 </p>
