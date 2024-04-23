@@ -21,8 +21,6 @@ Developing an [open source game engine](https://github.com/wtfsystems/wtengine),
 <p>
 <a href="https://archlinux.org/">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png"></a>&nbsp;&nbsp;
-<a href="https://hyper.is/">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/hyper.png"></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png"></a>&nbsp;&nbsp;
 <a href="https://isocpp.org/std/the-standard">
