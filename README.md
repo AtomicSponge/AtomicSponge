@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 始めまして『エバンズ『です 👋
 
-Developing an [open source game engine](https://github.com/wtfsystems), check it out!
+__Developing an [open source game engine](https://github.com/wtfsystems), check it out!__
 
 ### About me:
 - Learned [QBasic](https://en.wikipedia.org/wiki/QBasic) & [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
