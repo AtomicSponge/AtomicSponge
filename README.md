@@ -16,19 +16,33 @@ __Developing an [open source game engine](https://github.com/wtfsystems), check 
 ### Tech used:
 <p>
 <a href="https://archlinux.org/">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/arch.png"></a>&nbsp;&nbsp;
+  <img style="height: 64px;" src="./images/arch.png">
+</a>
+&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/code.png"></a>&nbsp;&nbsp;
+  <img style="height: 64px;" src="./images/code.png">
+</a>
+&nbsp;&nbsp;
 <a href="https://isocpp.org/std/the-standard">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png"></a>&nbsp;&nbsp;
+  <img style="height: 64px;" src="./images/c-logo-1.png">
+</a>
+&nbsp;&nbsp;
 <a href="https://nodejs.org/">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png"></a>&nbsp;&nbsp;
+  <img style="height: 64px;" src="./images/nodejs.png">
+</a>
+&nbsp;&nbsp;
 <a href="https://vitejs.dev/">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/vite.svg"></a>&nbsp;&nbsp;
+  <img style="height: 64px;" src="./images/vite.svg">
+</a>
+&nbsp;&nbsp;
 <a href="https://electron-vite.github.io/">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/electron-vite.svg"></a>&nbsp;&nbsp;
+  <img style="height: 64px;" src="./images/electron-vite.svg">
+</a>
+&nbsp;&nbsp;
 <a href="https://simplenote.com/">
-<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/simplenote.png"></a>&nbsp;&nbsp;
+  <img style="height: 64px;" src="./images/simplenote.png">
+</a>
+&nbsp;&nbsp;
 </p>
 
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
