@@ -15,33 +15,19 @@ __Developing an [open source game engine](https://github.com/wtfsystems), check 
 
 ### Tech used:
 <p>
-<a href="https://archlinux.org/">
-  <img style="height: 64px;" src="./images/arch.png">
-</a>
+<a href="https://archlinux.org/"><img style="height: 64px;" src="./images/arch.png"></a>
 &nbsp;&nbsp;
-<a href="https://code.visualstudio.com/">
-  <img style="height: 64px;" src="./images/code.png">
-</a>
+<a href="https://code.visualstudio.com/"><img style="height: 64px;" src="./images/code.png"></a>
 &nbsp;&nbsp;
-<a href="https://isocpp.org/std/the-standard">
-  <img style="height: 64px;" src="./images/c-logo-1.png">
-</a>
+<a href="https://isocpp.org/std/the-standard"><img style="height: 64px;" src="./images/c-logo-1.png"></a>
 &nbsp;&nbsp;
-<a href="https://nodejs.org/">
-  <img style="height: 64px;" src="./images/nodejs.png">
-</a>
+<a href="https://nodejs.org/"><img style="height: 64px;" src="./images/nodejs.png"></a>
 &nbsp;&nbsp;
-<a href="https://vitejs.dev/">
-  <img style="height: 64px;" src="./images/vite.svg">
-</a>
+<a href="https://vitejs.dev/"><img style="height: 64px;" src="./images/vite.svg"></a>
 &nbsp;&nbsp;
-<a href="https://electron-vite.github.io/">
-  <img style="height: 64px;" src="./images/electron-vite.svg">
-</a>
+<a href="https://electron-vite.github.io/"><img style="height: 64px;" src="./images/electron-vite.svg"></a>
 &nbsp;&nbsp;
-<a href="https://simplenote.com/">
-  <img style="height: 64px;" src="./images/simplenote.png">
-</a>
+<a href="https://simplenote.com/"><img style="height: 64px;" src="./images/simplenote.png"></a>
 &nbsp;&nbsp;
 </p>
 
