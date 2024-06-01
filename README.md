@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### 始めまして『エバンズ『です 👋
 
-__Developing an [open source game engine](https://github.com/wtfsystems), check it out!__
+__Developing an [open source game engine](https://github.com/wtfsystems) - check it out!__
 
-__Creator of [Script Tray](https://github.com/AtomicSponge/script-tray), a script launching system utility!__
+__Creator of [Script Tray](https://github.com/AtomicSponge/script-tray) - a script launching system utility!__
 
 ### About me:
 - Learned [QBasic](https://en.wikipedia.org/wiki/QBasic) & [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) on an [IBM PS/1](https://en.wikipedia.org/wiki/IBM_PS/1) [Intel i386](https://en.wikipedia.org/wiki/I386) :computer:
