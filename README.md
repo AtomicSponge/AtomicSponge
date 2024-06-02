@@ -5,7 +5,7 @@ __Developing an [open source game engine](https://github.com/wtfsystems) - check
 
 __Creator of [Script Tray](https://github.com/AtomicSponge/script-tray/#readme) - a script launching system utility!__
 
-### NPM Repository:
+### NPM Repository (Scripts & Libraries):
 - https://www.npmjs.com/~spongex
 
 ### About me:
