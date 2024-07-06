@@ -32,5 +32,3 @@ __Creator of [Script Tray](https://github.com/AtomicSponge/script-tray/#readme) 
 <a href="https://simplenote.com/"><img style="height: 64px;" src="./images/simplenote.png"></a>
 &nbsp;&nbsp;
 </p>
-
-<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
