@@ -25,9 +25,9 @@ __Creator of [Script Tray](https://github.com/AtomicSponge/script-tray/#readme) 
 &nbsp;&nbsp;
 <a href="https://nodejs.org/"><img style="height: 64px;" src="./images/nodejs.png"></a>
 &nbsp;&nbsp;
+<a href="https://batijs.dev/"><img style="height: 64px;" src="./images/bati-logo.svg"></a>
+&nbsp;&nbsp;
 <a href="https://vike.dev/"><img style="height: 64px;" src="./images/vike-logo.svg"></a>
 &nbsp;&nbsp;
 <a href="https://vitejs.dev/"><img style="height: 64px;" src="./images/vite.svg"></a>
-&nbsp;&nbsp;
-<a href="https://vuejs.org/"><img style="height: 64px;" src="./images/vue-logo.png"></a>
 </p>
