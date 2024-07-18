@@ -14,6 +14,7 @@ __Creator of [Script Tray](https://github.com/AtomicSponge/script-tray/#readme) 
 - Loves [MIDI](https://en.wikipedia.org/wiki/MIDI) and thinks [GameBoys](https://en.wikipedia.org/wiki/Game_Boy) are musical instruments.  :musical_keyboard:
 - [Cheats](https://imhex.werwolv.net/) at video games :expressionless:
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki) :heart:
+- Self educated (the education system in the US is a joke)
 
 ### Tech used:
 <p>
