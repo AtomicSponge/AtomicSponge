@@ -9,7 +9,6 @@
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki) :heart:
 - Self educated :nerd_face:
 
-### Tech used:
 <p>
 <a href="https://archlinux.org/"><img style="height: 64px;" src="./images/arch.png"></a>
 &nbsp;&nbsp;
