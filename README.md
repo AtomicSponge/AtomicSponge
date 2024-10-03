@@ -8,21 +8,5 @@
 - [Cheats](https://imhex.werwolv.net/) at video games :expressionless:
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki) :heart:
 
-<p>
-<a href="https://archlinux.org/"><img style="height: 64px;" src="./images/arch.png"></a>
-&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img style="height: 64px;" src="./images/code.png"></a>
-&nbsp;&nbsp;
-<a href="https://isocpp.org/std/the-standard"><img style="height: 64px;" src="./images/c-logo-1.png"></a>
-&nbsp;&nbsp;
-<a href="https://nodejs.org/"><img style="height: 64px;" src="./images/nodejs.png"></a>
-&nbsp;&nbsp;
-<a href="https://batijs.dev/"><img style="height: 64px;" src="./images/bati-logo.svg"></a>
-&nbsp;&nbsp;
-<a href="https://vike.dev/"><img style="height: 64px;" src="./images/vike-logo.svg"></a>
-&nbsp;&nbsp;
-<a href="https://vitejs.dev/"><img style="height: 64px;" src="./images/vite.svg"></a>
-</p>
-
 ### NPM Repository (Scripts & Libraries):
 - https://www.npmjs.com/~spongex
