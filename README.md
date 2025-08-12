@@ -8,5 +8,8 @@
 - [Cheats](https://imhex.werwolv.net/) at video games :expressionless:
 - [A](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam)[ni](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)[me](https://typemoon.fandom.com/wiki/Fate_series) [fan](https://en.touhouwiki.net/wiki/Touhou_Wiki) :heart:
 
+### Godot Plugins:
+[UiController](https://github.com/AtomicSponge/godot-plugin-ui-controller)
+
 ### NPM Repository (Scripts & Libraries):
-- https://www.npmjs.com/~spongex
+- <https://www.npmjs.com/~spongex>
