@@ -11,6 +11,7 @@
 ### Godot Plugins:
 - [UiController](https://github.com/AtomicSponge/godot-plugin-ui-controller)
 - [Console](https://github.com/AtomicSponge/godot-plugin-console)
+- [FPS Label](https://github.com/AtomicSponge/godot-plugin-fps-label)
 
 ### NPM Repository (Scripts & Libraries):
 - <https://www.npmjs.com/~spongex>
