@@ -10,6 +10,7 @@
 
 ### Godot Plugins:
 - [UiController](https://github.com/AtomicSponge/godot-plugin-ui-controller)
+- [Console](https://github.com/AtomicSponge/godot-plugin-console)
 
 ### NPM Repository (Scripts & Libraries):
 - <https://www.npmjs.com/~spongex>
